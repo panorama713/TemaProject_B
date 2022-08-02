@@ -7,7 +7,7 @@
 > Nuxt.js - Spring boot (REST API 통신)
 
 Frontend
-> **프론트엔드 Git** https://github.com/panorama713/TeamProject_F
+> ***프론트엔드 Github*** https://github.com/panorama713/TeamProject_F
 > 
 > Design Framework : Bootstrap
 > 
