@@ -24,7 +24,7 @@ Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
 ## 사이트 간략기능
-> 본인이 개발한 기능은 _`#0969DA`기울임 표시_
+> 본인이 개발한 기능은 _`기울임 표시`_
 
 유저 관련 기능
 - 로그인, 로그아웃, 회원가입
