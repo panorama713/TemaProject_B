@@ -24,7 +24,7 @@ Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
 ## 사이트 간략기능
-> 본인이 개발한 기능은 _`네모표시`_
+> 본인이 개발한 기능 및 페이지는 _`네모표시`_
 
 유저 관련 기능
 - 로그인, 로그아웃, 회원가입
@@ -40,6 +40,10 @@ Data Model
 상단바
 - 여행상품, 여행정보, 게시판,`검색기능(상품명 검색)`, (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/85289162/182331166-be3761ac-1afd-443d-8b5c-53659de134aa.png">
+
+`검색결과 페이지`
+- 검색(제목)결과에 따른 상품 표시
+<img width="1386" alt="image" src="https://user-images.githubusercontent.com/85289162/182552404-0b4387e7-9a73-4a2c-8828-989c42c45bc0.png">
 
 `메인페이지`
 - 선택 검색 : 위치를 통한 판매상품 검색
