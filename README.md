@@ -24,7 +24,7 @@ Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
 ## 사이트 간략기능
-> 본인이 개발한 기능은 _`기울임 표시`_
+> 본인이 개발한 기능은 _`네모표시`_
 
 유저 관련 기능
 - 로그인, 로그아웃, 회원가입
@@ -38,10 +38,10 @@ Data Model
 <img width="1390" alt="image" src="https://user-images.githubusercontent.com/85289162/182339061-a91e277a-0de0-49d7-8bbb-9f0ec15ddd7f.png">
 
 상단바
-- 여행상품, 여행정보, 게시판, _검색기능(상품명 검색)_, (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
+- 여행상품, 여행정보, 게시판,`₩검색기능(상품명 검색)`, (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/85289162/182331166-be3761ac-1afd-443d-8b5c-53659de134aa.png">
 
-_메인페이지_
+`메인페이지`
 - 선택 검색 : 위치를 통한 판매상품 검색
 - 판매 상품 나열 : 선택시 제품 상세페이지
 <img width="1378" alt="image" src="https://user-images.githubusercontent.com/85289162/182334214-838871c9-8b05-4517-9e55-5704e26daa5b.png">
@@ -50,7 +50,7 @@ _메인페이지_
 - 지역선택, 조회순, 리뷰많은순, 가격낮은순 정렬
 <img width="1381" alt="image" src="https://user-images.githubusercontent.com/85289162/182337500-7535df76-d287-49a7-af24-33b69dc24876.png">
 
-제품 상세페이지
+`제품 상세페이지`
 - 장바구니 추가, 결제페이지 이동
 <img width="1426" alt="image" src="https://user-images.githubusercontent.com/85289162/182337883-2927792f-47ab-451d-bafb-b8a635f6b3d8.png">
 
@@ -61,12 +61,12 @@ _메인페이지_
 - 상품 리뷰
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/85289162/182337989-d9e59320-3c66-4fda-8621-4d8467f1c63d.png">
 
-장바구니
+`장바구니`
 - 여행인원(상품 quntity)수정
 - 장바구니 상품 삭제
 ![image](https://user-images.githubusercontent.com/85289162/182338533-c8585e7c-a914-407b-886f-6e2d9bb73ce8.png)
 
-결제
+`결제`
 - Bootpay를 통한 결제 기능
 - 결제 완료한 상품 장바구니 삭제
 <img width="1374" alt="image" src="https://user-images.githubusercontent.com/85289162/182338610-0e36fc28-4a52-4e59-8603-cc27990230bc.png">
