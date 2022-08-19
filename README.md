@@ -1,6 +1,7 @@
 ## 프로젝트 소개
 
 > 국내여행상품 판매 사이트
+> 참여인원 : 팀장 1, 팀원 4
 
 **System Architecture**
 
@@ -24,7 +25,11 @@ Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
 ## 사이트 간략기능
-> 본인이 개발한 기능 및 페이지는 _`네모표시`_
+> 기여도
+> 
+> 메인페이지ㅂ
+> 메인페ㅇ
+
 
 유저 관련 기능
 - 로그인, 로그아웃, 회원가입
