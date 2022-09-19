@@ -20,6 +20,9 @@ System Architecture
 Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
+Frontend
+> https://github.com/panorama713/TemaProject_F
+
 ## 사이트 간략기능
 상단바
 - 여행상품, 여행정보, 게시판, 검색기능(상품명 검색), (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
