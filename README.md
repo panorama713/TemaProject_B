@@ -34,7 +34,7 @@ Frontend
 - 결제페이지 모두 구현(프론트엔드, 백엔드) > *bootpay API 를 이용한 결제 기능 구현*, *join을 이용한 CRUD 구현*
 
 ## 사이트 간략기능
-상단바(담당역할 없음)
+상단바(검색기능 구현 참여)
 - 여행상품, 여행정보, 게시판, 검색기능(상품명 검색), (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/85289162/182331166-be3761ac-1afd-443d-8b5c-53659de134aa.png">
 
@@ -51,7 +51,6 @@ Frontend
 
 - 구매내역 : 취소신청, 상품리뷰작성
 <img width="1390" alt="image" src="https://user-images.githubusercontent.com/85289162/182339061-a91e277a-0de0-49d7-8bbb-9f0ec15ddd7f.png">
-
 
 메인페이지
 - 선택 검색 : 위치검색을 통한 판매상품 검색
@@ -74,12 +73,12 @@ Frontend
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/85289162/182337989-d9e59320-3c66-4fda-8621-4d8467f1c63d.png">
 
 장바구니
-- 여행인원(상품 quntity)수정
+- 여행인원(상품 quntity)수정 기능
 - 장바구니 상품 삭제
 ![image](https://user-images.githubusercontent.com/85289162/182338533-c8585e7c-a914-407b-886f-6e2d9bb73ce8.png)
 
 결제
-- Bootpay를 통한 결제 기능
+- Bootpay API를 이용해 결제 기능 구현
 - 결제 완료한 상품 장바구니 삭제
 <img width="1374" alt="image" src="https://user-images.githubusercontent.com/85289162/182338610-0e36fc28-4a52-4e59-8603-cc27990230bc.png">
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/85289162/182339189-1dce42bf-61d3-4174-aa5a-84eab4876707.png">
