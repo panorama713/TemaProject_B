@@ -23,7 +23,7 @@ Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
 Frontend
-> https://github.com/panorama713/TemaProject_F
+> https://github.com/panorama713/TeamProject_F
 
 ## 담당역할
 - 기획, 개발 모두 참여
